@@ -14,6 +14,6 @@ public class HTMLFileFilter extends FileFilter {
 
     @Override
     public String getDescription() {
-        return "HTML и HTM файлы";
+        return "HTML and HTM files";
     }
 }
