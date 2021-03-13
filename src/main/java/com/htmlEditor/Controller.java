@@ -1,6 +1,6 @@
-package htmlEditor;
+package main.java.com.htmlEditor;
 
-import htmlEditor.listeners.UndoListener;
+import main.java.com.htmlEditor.listeners.UndoListener;
 
 import javax.swing.*;
 import javax.swing.text.BadLocationException;

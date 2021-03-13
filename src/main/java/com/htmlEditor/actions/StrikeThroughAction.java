@@ -1,4 +1,4 @@
-package htmlEditor.actions;
+package main.java.com.htmlEditor.actions;
 
 import javax.swing.*;
 import javax.swing.text.MutableAttributeSet;

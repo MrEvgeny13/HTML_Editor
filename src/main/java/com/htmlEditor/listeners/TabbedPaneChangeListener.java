@@ -1,6 +1,6 @@
-package htmlEditor.listeners;
+package main.java.com.htmlEditor.listeners;
 
-import htmlEditor.View;
+import main.java.com.htmlEditor.View;
 
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;

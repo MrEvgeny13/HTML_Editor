@@ -1,6 +1,6 @@
-package htmlEditor.actions;
+package main.java.com.htmlEditor.actions;
 
-import htmlEditor.View;
+import main.java.com.htmlEditor.View;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

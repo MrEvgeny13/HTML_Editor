@@ -1,4 +1,4 @@
-package htmlEditor;
+package main.java.com.htmlEditor;
 
 import javax.swing.filechooser.FileFilter;
 import java.io.File;
